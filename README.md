@@ -32,4 +32,3 @@ async def kara(ctx):
 async def su(ctx):
     await ctx.send("Su kirliliği; göl, nehir, okyanus, deniz ve yeraltı suları gibi su barındıran havzalarda görülen kirliliğe verilen genel addır. Her çeşit su kirliliği, kirliliğin bulunduğu havzanın çevresinde veya içinde yaşayan tüm canlılara zarar verdiği gibi, çeşitli türlerin ve biyolojik toplulukların yok olmasına ortam hazırlar.")
 
-bot.run("MTIyMTg3MjI0NDE2MzIxNTM3MA.G-tbK_.QtFUO59TZpAgvzYVmoAutrx5tL3K6INtdw1KdY")
